@@ -1,0 +1,13 @@
+my_flask_app/
+│
+├── app/
+│   ├── __init__.py
+│   └── routes.py
+│
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+│
+├── Dockerfile
+├── requirements.txt
+└── app.py
